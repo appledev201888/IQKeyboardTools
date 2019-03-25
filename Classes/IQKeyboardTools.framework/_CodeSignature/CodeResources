@@ -8,9 +8,9 @@
 		<data>
 		pnJIv9MHwL2mhkoVR9TwYR4YKsQ=
 		</data>
-		<key>Headers/IQKeyboardToolsManage.h</key>
+		<key>IQKeyboardTools.h</key>
 		<data>
-		fF6JSDLPoMcpTNINkajhs7bBx4s=
+		pnJIv9MHwL2mhkoVR9TwYR4YKsQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -70,15 +70,15 @@
 			KDlo7t9bbrRM933zbY9zKXAA98Ekyx5gdh5Js0AaxjM=
 			</data>
 		</dict>
-		<key>Headers/IQKeyboardToolsManage.h</key>
+		<key>IQKeyboardTools.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fF6JSDLPoMcpTNINkajhs7bBx4s=
+			pnJIv9MHwL2mhkoVR9TwYR4YKsQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			GXT9CWEdjTRRT/OCl7iGwiFvIXVWr1lmc7wF212XXDo=
+			KDlo7t9bbrRM933zbY9zKXAA98Ekyx5gdh5Js0AaxjM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
